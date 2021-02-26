@@ -1,0 +1,30 @@
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\bin\Debug\interSERVICES.exe.config
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\bin\Debug\interSERVICES.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\bin\Debug\interSERVICES.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\obj\Debug\interSERVICES.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\obj\Debug\interSERVICES.cadClientes.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\obj\Debug\interSERVICES.CadFuncionarios.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\obj\Debug\interSERVICES.CadServicos.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\obj\Debug\interSERVICES.MainForm.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\obj\Debug\interSERVICES.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\obj\Debug\interSERVICES.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\obj\Debug\interSERVICES.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\obj\Debug\interSERVICES.Consultar.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\obj\Debug\interSERVICES.dgvCliente.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\obj\Debug\interSERVICES.ConFuncionarios.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\interSERVICES\interSERVICES\obj\Debug\interSERVICES.ConServicos.resources
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\bin\Debug\interSERVICES.exe.config
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\bin\Debug\interSERVICES.exe
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\bin\Debug\interSERVICES.pdb
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\obj\Debug\interSERVICES.csprojResolveAssemblyReference.cache
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\obj\Debug\interSERVICES.cadClientes.resources
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\obj\Debug\interSERVICES.CadFuncionarios.resources
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\obj\Debug\interSERVICES.CadServicos.resources
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\obj\Debug\interSERVICES.dgvCliente.resources
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\obj\Debug\interSERVICES.ConFuncionarios.resources
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\obj\Debug\interSERVICES.ConServicos.resources
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\obj\Debug\interSERVICES.Consultar.resources
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\obj\Debug\interSERVICES.MainForm.resources
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\obj\Debug\interSERVICES.csproj.GenerateResource.Cache
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\obj\Debug\interSERVICES.exe
+D:\PROJETOOOOOOOOOOOOOOOOOOO\interSERVICES\interSERVICES\obj\Debug\interSERVICES.pdb
